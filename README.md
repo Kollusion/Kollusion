@@ -6,7 +6,6 @@
 ###
 
 <div align="center">
-  <h3 align="left">🛠 Технологии</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash,git" height="220" alt="streak graph"  />
 </div>
 
