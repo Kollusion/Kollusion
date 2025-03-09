@@ -8,4 +8,13 @@
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash,git)](https://kollusion.netlify.app)
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kollusion&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
