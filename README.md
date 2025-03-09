@@ -9,7 +9,9 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash,git)](https://kollusion.netlify.app)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash,git" height="220" alt="streak graph"  />
+</div>
 
 ###
 
