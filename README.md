@@ -4,4 +4,4 @@
 <h3 align="center">A creative developer & digital designer from Russia 🇷🇺</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash)](https://kollusion.netlify.app)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash,git)](https://kollusion.netlify.app)
