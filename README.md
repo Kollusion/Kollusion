@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash,git" height="220" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,astro,nextjs,mongodb,react,tailwind,vscode,arch,bun,python,bash,git,redis,nodejs,postgresql,express,tailwind,css,html,redux,figma,vercel,netlify,github,gitlab,docker,nginx,linux,regex,electron,tauri,capacitor,prisma,sass,webpack" height="220" alt="streak graph"  />
 </div>
 
 ###
