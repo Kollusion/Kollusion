@@ -63,7 +63,7 @@
   <a href="mailto:kollusion.dark@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
-  <a href="https://kollusion.netlify.app" target="_blank">
+  <a href="https://kollusion.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30"/>
   </a>
 </div>
